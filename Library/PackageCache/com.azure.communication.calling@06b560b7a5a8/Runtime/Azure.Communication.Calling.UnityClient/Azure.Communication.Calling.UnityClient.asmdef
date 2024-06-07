@@ -1,0 +1,23 @@
+{
+    "name": "Azure.Communication.Calling.UnityClient",
+    "rootNamespace": "Azure.Communication.Calling.UnityClient",
+    "references": [
+        "GUID:2d0e982b3f714054bb86eb6364752bd4",
+        "GUID:71258af40b6c1ac4e92055b3df8924d5"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "WSA",
+        "WebGL",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

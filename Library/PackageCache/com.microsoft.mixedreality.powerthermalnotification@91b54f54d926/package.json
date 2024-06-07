@@ -1,0 +1,27 @@
+{
+    "version": "0.2.1",
+    "name": "com.microsoft.mixedreality.powerthermalnotification",
+    "displayName": "Mixed Reality Power Thermal Notification",
+    "unity": "2020.3",
+    "msftFeatureCategory": "Platform Support",
+    "description": "SDK for Power Thermal Notification on Windows Mixed Reality devices. Allows event notification for power thermal mitigations based on peripherals of interest.",
+    "keywords": [
+        "hololens",
+        "microsoft",
+        "mitigation",
+        "mixed",
+        "performance",
+        "power",
+        "powerthermalnotification",
+        "reality",
+        "thermals"
+    ],
+    "author": "Microsoft",
+    "samples": [
+    {
+    "displayName": "PowerThermalNotification Dual Use Sample",
+    "description": "This sample include components for both polling and event based notifications for both score and mitigation level",
+    "path" : "Samples~/DualUseExample"
+    }
+    ]
+}

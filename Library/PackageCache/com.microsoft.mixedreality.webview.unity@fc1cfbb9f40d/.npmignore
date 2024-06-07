@@ -1,0 +1,5 @@
+package-lock.json.meta
+Runtime\Plugins\android.meta
+Runtime\Plugins\android\MicrosoftWebViewUnityPlugin.aar.meta
+Runtime\Platform\AndroidWebView.cs
+Runtime\Platform\AndroidWebView.cs.meta

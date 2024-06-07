@@ -1,0 +1,48 @@
+{
+    "name": "Microsoft.Azure.RemoteRendering",
+    "rootNamespace": "Microsoft.Azure.RemoteRendering.Unity",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.XR.WindowsMixedReality",
+        "Unity.XR.Management",
+        "Unity.XR.OpenXR"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "WSA",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "7.2.1",
+            "define": "URP_AVAILABLE"
+        },
+        {
+            "name": "com.unity.xr.windowsmr",
+            "expression": "2.1.5",
+            "define": "WMR_XR_PLUGIN_AVAILABLE"
+        },
+        {
+            "name": "com.unity.xr.management",
+            "expression": "3.1",
+            "define": "XR_MANAGEMENT_PLUGIN_AVAILABLE"
+        },
+        {
+            "name": "com.unity.xr.openxr",
+            "expression": "1.0.2",
+            "define": "OPENXR_PLUGIN_AVAILABLE"
+        }
+    ],
+    "noEngineReferences": false
+}

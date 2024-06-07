@@ -1,0 +1,18 @@
+{
+  "name": "com.azure.communication.calling",
+  "displayName": "Azure Communication Services Calling Unity SDK",
+  "msftFeatureCategory": "Azure Mixed Reality Services",
+  "version": "1.0.0-beta.3",
+  "unity": "2021.3",
+  "description": "Azure Communication Services Calling Unity SDK enables end-user devices to drive voice and video communication experiences in Unity.",
+  "dependencies": {},
+  "keywords": [
+    "microsoft",
+    "azure",
+    "communication",
+    "calling"
+  ],
+  "author": {
+    "name": "Microsoft"
+  }
+}

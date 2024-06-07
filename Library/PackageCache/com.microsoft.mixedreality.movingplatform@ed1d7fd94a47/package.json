@@ -1,0 +1,28 @@
+{
+    "version": "0.0.3",
+    "name": "com.microsoft.mixedreality.movingplatform",
+    "displayName": "Mixed Reality Moving Platform SDK",
+    "unity": "2020.3",
+    "msftFeatureCategory": "Platform Support",
+    "description": "SDK for the Moving Platform feature, allows Hololens 2 devices to work on enclosed moving platforms, such as ships and deep sea platforms.",
+    "keywords": [
+        "hololens",
+        "microsoft",
+        "mixed",
+        "reality",
+        "vehicle",
+        "ship",
+        "car",
+        "platform",
+        "moving",
+        "tracking"
+    ],
+    "author": "Microsoft",
+    "samples": [
+    {
+    "displayName": "Moving Platform SDK example",
+    "description": "This sample shows how to read from and set the moving platform mode.",
+    "path" : "Samples~/MovingPlatformSample"
+    }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Microsoft.ObjectAnchors.Runtime.Api",
+    "references": [],
+    "includePlatforms": [
+        "Editor",
+        "WSA",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

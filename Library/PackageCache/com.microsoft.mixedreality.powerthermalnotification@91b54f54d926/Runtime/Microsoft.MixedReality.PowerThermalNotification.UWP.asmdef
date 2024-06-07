@@ -1,0 +1,16 @@
+{
+    "name": "Microsoft.MixedReality.PowerThermal.UWP",
+    "rootNamespace": "Microsoft.MixedReality.PowerThermalNotification",
+    "references": [],
+    "includePlatforms": [
+        "WSA"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

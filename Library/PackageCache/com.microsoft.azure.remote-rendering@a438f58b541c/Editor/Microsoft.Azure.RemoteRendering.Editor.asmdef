@@ -1,0 +1,60 @@
+{
+    "name": "Microsoft.Azure.RemoteRendering.Editor",
+    "rootNamespace": "Microsoft.Azure.RemoteRendering.Unity.Editor",
+    "references": [
+        "GUID:d0230f68c4b40e4419987063ca06f213",
+        "GUID:e40ba710768534012815d3193fa296cb",
+        "GUID:f9fe0089ec81f4079af78eb2287a6163",
+        "GUID:3d9f59ae91c131e408fec0e5f661c340",
+        "GUID:0d0a5c5ecc09e084586ee3c84e765bb5",
+        "GUID:4847341ff46394e83bb78fbd0652937e",
+        "GUID:96aa6ba065960476598f8f643e7252b6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.management",
+            "expression": "3.1",
+            "define": "XR_MANAGEMENT_PLUGIN_AVAILABLE"
+        },
+        {
+            "name": "com.unity.xr.windowsmr",
+            "expression": "2.1.5",
+            "define": "WMR_XR_PLUGIN_AVAILABLE"
+        },
+        {
+            "name": "com.microsoft.mixedreality.openxr",
+            "expression": "0.1.4",
+            "define": "MR_OPENXR_PLUGIN_AVAILABLE"
+        },
+        {
+            "name": "com.unity.xr.openxr",
+            "expression": "1.0.2",
+            "define": "OPENXR_PLUGIN_AVAILABLE"
+        },
+        {
+            "name": "com.unity.xr.windowsmr",
+            "expression": "[2.1.5,4.6.3]",
+            "define": "WMR_XR_PLUGIN_BROKEN"
+        },
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "7.2.1",
+            "define": "URP_AVAILABLE"
+        },
+        {
+            "name": "com.unity.xr.windowsmr.metro",
+            "expression": "",
+            "define": "WMR_LEGACY_PLUGIN_AVAILABLE"
+        }
+    ],
+    "noEngineReferences": false
+}

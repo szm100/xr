@@ -1,0 +1,16 @@
+{
+    "name": "Microsoft.MixedReality.MovingPlatformLib.UWP",
+    "rootNamespace": "Microsoft.MixedReality.MovingPlatform",
+    "references": [],
+    "includePlatforms": [
+        "WSA"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

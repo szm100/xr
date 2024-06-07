@@ -1,0 +1,12 @@
+{
+  "name": "com.microsoft.mixedreality.webview.unity",
+  "version": "0.22.5",
+  "displayName": "Microsoft Mixed Reality WebView",
+  "description": "A cross-platform Unity WebView component for Microsoft Mixed Reality",
+  "unity": "2021.3",
+  "unityRelease": "26f1",
+  "author": "Microsoft",
+  "dependencies": {
+    "com.unity.inputsystem": "1.4.4"
+  }
+}

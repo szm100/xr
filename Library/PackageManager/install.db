@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.azure.communication.calling": {
+      "tarball": {
+        "hash": "06b560b7a5a8",
+        "mtime": 1717748232899,
+        "size": 98628666,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.azure.communication.calling-1.0.0-beta.3.tgz"
+      }
+    },
+    "com.microsoft.azure.object-anchors.runtime": {
+      "tarball": {
+        "hash": "d31c8fc15289",
+        "mtime": 1717749651018,
+        "size": 11705284,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.azure.object-anchors.runtime-0.25.0.tgz"
+      }
+    },
+    "com.microsoft.azure.remote-rendering": {
+      "tarball": {
+        "hash": "a438f58b541c",
+        "mtime": 1717749662084,
+        "size": 43101371,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.azure.remote-rendering-1.2.28.tgz"
+      }
+    },
+    "com.microsoft.azure.spatial-anchors-sdk.android": {
+      "tarball": {
+        "hash": "febe2880591f",
+        "mtime": 1717748219180,
+        "size": 21471046,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.azure.spatial-anchors-sdk.android-2.14.1.tgz"
+      }
+    },
+    "com.microsoft.azure.spatial-anchors-sdk.core": {
+      "tarball": {
+        "hash": "7b2d5f79f09a",
+        "mtime": 1717748217938,
+        "size": 86357,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.azure.spatial-anchors-sdk.core-2.14.1.tgz"
+      }
+    },
+    "com.microsoft.azure.spatial-anchors-sdk.ios": {
+      "tarball": {
+        "hash": "43a446c53c74",
+        "mtime": 1717748228039,
+        "size": 50925093,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.azure.spatial-anchors-sdk.ios-2.14.1.tgz"
+      }
+    },
+    "com.microsoft.azure.spatial-anchors-sdk.windows": {
+      "tarball": {
+        "hash": "c59f29caea85",
+        "mtime": 1717748225461,
+        "size": 18379151,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.azure.spatial-anchors-sdk.windows-2.14.1.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "42f661a9fb5b",
+        "mtime": 1717748229819,
+        "size": 55195848,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "84fe3e76e9b7",
+        "mtime": 1717748217460,
+        "size": 1131406,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.figmabridge": {
+      "tarball": {
+        "hash": "b20dced74a18",
+        "mtime": 1717748218662,
+        "size": 796147,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.figmabridge-0.1.1.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "f2323a9b7aec",
+        "mtime": 1717748219700,
+        "size": 11691469,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.gpustats": {
+      "tarball": {
+        "hash": "c5bca7da8201",
+        "mtime": 1717748218398,
+        "size": 136802,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.gpustats-1.0.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.micstream": {
+      "tarball": {
+        "hash": "10e55ce31d3e",
+        "mtime": 1717748218678,
+        "size": 343203,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.micstream-1.0.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.planefinding": {
+      "tarball": {
+        "hash": "ba1c62ce75c5",
+        "mtime": 1717748218396,
+        "size": 226297,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.planefinding-1.0.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "aab256284dc6",
+        "mtime": 1717748217729,
+        "size": 5328617,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.testutilities": {
+      "tarball": {
+        "hash": "b1a5df198759",
+        "mtime": 1717748217782,
+        "size": 18590,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.testutilities-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "650cce437d92",
+        "mtime": 1717748218255,
+        "size": 2111115,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mrtk.graphicstools.unity": {
+      "tarball": {
+        "hash": "31599fea1ed5",
+        "mtime": 1717748223375,
+        "size": 16808739,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mrtk.graphicstools.unity-0.7.0.tgz"
+      }
+    },
+    "com.microsoft.mrtk.tts.windows": {
+      "tarball": {
+        "hash": "97f8b869fdb4",
+        "mtime": 1717748216827,
+        "size": 50944,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mrtk.tts.windows-1.0.4.tgz"
+      }
+    },
+    "org.mixedrealitytoolkit.accessibility": {
+      "tarball": {
+        "hash": "498964a2b527",
+        "mtime": 1717748217764,
+        "size": 25516,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\org.mixedrealitytoolkit.accessibility-1.0.3-pre.20.tgz"
+      }
+    },
+    "org.mixedrealitytoolkit.audio": {
+      "tarball": {
+        "hash": "220dfbfb9a07",
+        "mtime": 1717748217853,
+        "size": 9175,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\org.mixedrealitytoolkit.audio-3.0.3.tgz"
+      }
+    },
+    "org.mixedrealitytoolkit.core": {
+      "tarball": {
+        "hash": "91839deb5e8c",
+        "mtime": 1717748218276,
+        "size": 134910,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\org.mixedrealitytoolkit.core-3.2.1.tgz"
+      }
+    },
+    "org.mixedrealitytoolkit.diagnostics": {
+      "tarball": {
+        "hash": "449033b42c12",
+        "mtime": 1717748214311,
+        "size": 13379,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\org.mixedrealitytoolkit.diagnostics-3.0.2.tgz"
+      }
+    },
+    "org.mixedrealitytoolkit.extendedassets": {
+      "tarball": {
+        "hash": "1ab56f7177f1",
+        "mtime": 1717748228992,
+        "size": 47311797,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\org.mixedrealitytoolkit.extendedassets-3.0.2.tgz"
+      }
+    },
+    "org.mixedrealitytoolkit.input": {
+      "tarball": {
+        "hash": "fd4c2f6aee55",
+        "mtime": 1717748219508,
+        "size": 2817756,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\org.mixedrealitytoolkit.input-3.2.1.tgz"
+      }
+    },
+    "org.mixedrealitytoolkit.spatialmanipulation": {
+      "tarball": {
+        "hash": "e428e3e6823c",
+        "mtime": 1717748216843,
+        "size": 165283,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\org.mixedrealitytoolkit.spatialmanipulation-3.3.0.tgz"
+      }
+    },
+    "org.mixedrealitytoolkit.standardassets": {
+      "tarball": {
+        "hash": "98d7c4c38afa",
+        "mtime": 1717748218345,
+        "size": 6082243,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\org.mixedrealitytoolkit.standardassets-3.2.0.tgz"
+      }
+    },
+    "org.mixedrealitytoolkit.tools": {
+      "tarball": {
+        "hash": "dce4b97ae0ab",
+        "mtime": 1717748217607,
+        "size": 12194,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\org.mixedrealitytoolkit.tools-3.0.3.tgz"
+      }
+    },
+    "org.mixedrealitytoolkit.uxcomponents": {
+      "tarball": {
+        "hash": "05ba8be372b2",
+        "mtime": 1717748218323,
+        "size": 156892,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\org.mixedrealitytoolkit.uxcomponents-3.3.0.tgz"
+      }
+    },
+    "org.mixedrealitytoolkit.uxcomponents.noncanvas": {
+      "tarball": {
+        "hash": "6d466e92a058",
+        "mtime": 1717748217211,
+        "size": 102178,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\org.mixedrealitytoolkit.uxcomponents.noncanvas-3.1.3.tgz"
+      }
+    },
+    "org.mixedrealitytoolkit.uxcore": {
+      "tarball": {
+        "hash": "f549116c3343",
+        "mtime": 1717748218305,
+        "size": 109049,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\org.mixedrealitytoolkit.uxcore-3.2.1.tgz"
+      }
+    },
+    "org.mixedrealitytoolkit.windowsspeech": {
+      "tarball": {
+        "hash": "a1f71aeb22a5",
+        "mtime": 1717748217703,
+        "size": 15256,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\org.mixedrealitytoolkit.windowsspeech-3.0.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.movingplatform": {
+      "tarball": {
+        "hash": "ed1d7fd94a47",
+        "mtime": 1717749651965,
+        "size": 807655,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.movingplatform-0.0.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "36f977845fc0",
+        "mtime": 1717748218942,
+        "size": 10562125,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.10.1.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.powerthermalnotification": {
+      "tarball": {
+        "hash": "91b54f54d926",
+        "mtime": 1717748218273,
+        "size": 161681,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.powerthermalnotification-0.2.1.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.sceneunderstanding": {
+      "tarball": {
+        "hash": "7bfd3a8ea18c",
+        "mtime": 1717748219273,
+        "size": 1293225,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.sceneunderstanding-0.6.0.tgz"
+      }
+    },
+    "com.microsoft.windows.mixedreality.dotnetwinrt": {
+      "tarball": {
+        "hash": "c4cffcb2b703",
+        "mtime": 1717748218225,
+        "size": 81616,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.windows.mixedreality.dotnetwinrt-0.5.2009.tgz"
+      }
+    },
+    "com.microsoft.spatialaudio.spatializer.unity": {
+      "tarball": {
+        "hash": "fdb3fe4bc947",
+        "mtime": 1717748229434,
+        "size": 83146418,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.spatialaudio.spatializer.unity-2.0.55.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.wlt.asa": {
+      "tarball": {
+        "hash": "7cbdfe915ace",
+        "mtime": 1717748218210,
+        "size": 26998,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.wlt.asa-1.5.9.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.wlt.asa.samples": {
+      "tarball": {
+        "hash": "de7fc369f78e",
+        "mtime": 1717748217981,
+        "size": 57176,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.wlt.asa.samples-1.5.9.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.worldlockingsamples": {
+      "tarball": {
+        "hash": "a3548c4a0dfa",
+        "mtime": 1717748217074,
+        "size": 142424,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.worldlockingsamples-1.5.9.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.worldlockingtools": {
+      "tarball": {
+        "hash": "550c28832059",
+        "mtime": 1717748222405,
+        "size": 14079740,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.worldlockingtools-1.5.9.tgz"
+      }
+    },
+    "com.microsoft.adaptivecards.net": {
+      "tarball": {
+        "hash": "1eab36873238",
+        "mtime": 1717748218216,
+        "size": 110397,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.adaptivecards.net-2.7.3.tgz"
+      }
+    },
+    "com.microsoft.altspacevr_uploader": {
+      "tarball": {
+        "hash": "71ca79b450e6",
+        "mtime": 1717748219248,
+        "size": 1847923,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.altspacevr_uploader-2.2.29.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.input": {
+      "tarball": {
+        "hash": "c707ff4d69e7",
+        "mtime": 1717748219385,
+        "size": 1659912,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.input-0.9.2006.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.webview.unity": {
+      "tarball": {
+        "hash": "fc1cfbb9f40d",
+        "mtime": 1717748219336,
+        "size": 1646683,
+        "localPath": "C:\\Users\\shenz\\XRGun\\Packages\\MixedReality\\com.microsoft.mixedreality.webview.unity-0.22.5.tgz"
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "com.microsoft.spatialaudio.spatializer.unity",
+  "displayName": "Microsoft Spatializer",
+  "version": "2.0.55",
+  "unity": "2021.3",
+  "unityRelease": "26f1",
+  "description": "Cross-platform Audio Spatializer for Mixed Reality and Immersive 3D applications",
+  "msftFeatureCategory": "Spatial Audio",
+  "documentationUrl": "https://aka.ms/spatial-sound-unity",
+  "keywords": [
+    "microsoft",
+    "mixed",
+    "reality",
+    "spatial",
+    "audio",
+    "spatializer",
+    "augmented",
+    "virtual"
+  ],
+  "author": "Microsoft",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microsoft/spatialaudio-unity"
+  },
+  "bugs": {
+    "url": "https://github.com/microsoft/spatialaudio-unity/issues"
+  }
+}

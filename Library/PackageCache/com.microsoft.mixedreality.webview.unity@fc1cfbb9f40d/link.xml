@@ -1,0 +1,3 @@
+<linker>
+    <assembly fullname="Microsoft.MixedReality.WebView" preserve="all"/>
+</linker>
