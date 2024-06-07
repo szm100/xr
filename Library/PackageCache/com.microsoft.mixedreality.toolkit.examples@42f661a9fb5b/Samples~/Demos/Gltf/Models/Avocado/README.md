@@ -1,4 +1,3 @@
-# Avocado - License information
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)  
-To the extent possible under law, Microsoft has waived all copyright and related or neighboring rights to this asset.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de4fce7d4f3dcea84f35ae38c8f9f84ed03a43c46b878006f83cb5d519191fca
+size 268

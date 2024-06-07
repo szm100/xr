@@ -1,8 +1,3 @@
-# xr.sdk.test-tooling
-Shared repo to put generally useful XR test tooling and support.
-
-Use as a git submodule in your provider package to allow for shared testing tools support.
-
-# Requirements
-
-Your provider package must have a dependency on XR Plugin Management prior to using this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01c24fcbb4dd528940a70d830489ac0210afbc670d21fb18629f8a0c74fbe1bd
+size 285

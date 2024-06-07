@@ -1,5 +1,3 @@
-# Mixed Reality Toolkit Examples - Standard Assets
-
-This folder contains general use assets only used in the example and demonstration scenes.
-
-> These are simply a small subset of the larger gallery of standard assets provided in the MRTK SDK library.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9d6a2da05334b1d3c15cc63ff68a317fc9d52ab9b1752e9a034efc114067ba3
+size 258

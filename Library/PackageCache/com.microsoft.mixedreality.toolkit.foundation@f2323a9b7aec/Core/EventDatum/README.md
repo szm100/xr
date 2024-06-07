@@ -1,5 +1,3 @@
-# Mixed Reality Toolkit - EventDatum
-
-Data model classes for the inner workings of the Mixed Reality Toolkit and its supported Core systems.
-
-All data models required for system use within the MRTK should be recorded here.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c535ad6d3af4fc862eba0fa884de9ef16dc313d6f8bc584bd14f4c36a8f4f03
+size 228

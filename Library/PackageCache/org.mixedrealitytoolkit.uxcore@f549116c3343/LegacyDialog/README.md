@@ -1,3 +1,3 @@
-## What is this?
-
-This folder contains the deprecated legacy Dialog implementation ported from MRTK v2. If you'd like to continue using this legacy Dialog implementation, we recommend copying this folder to your local project and maintaining the implementation yourself. Otherwise, we strongly recommend migrating to the new Dialog system located in the uxcore/Dialog folder.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3a78cf309e2bd9543800faafb11fcc6b4c87724c0dd54ced50afbb5e75619b1
+size 377

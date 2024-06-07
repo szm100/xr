@@ -1,6 +1,3 @@
-# Mixed Reality Toolkit - Standard Assets
-
-The assets contained here include a set of shaders, materials, fonts, audio and other resoruces that are optimized for the Microsoft Mixed Reality Toolkt.
-
-> [!IMPORTANT]
-> For best performance and consistency of experiences, it is highly recommended that applications use these assets, especially the Mixed Reality Toolkit Standard shader.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f27801c6256354290501435e981f02b8ab46b2ab5af8e8e6683c7420b5a449c0
+size 390

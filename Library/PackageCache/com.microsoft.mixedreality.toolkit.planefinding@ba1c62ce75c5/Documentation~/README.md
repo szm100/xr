@@ -1,3 +1,3 @@
-# Plane Finding
-
-PlaneFinding is an add-on that can be used to find planar surfaces (i.e.: walls/floors/tables/etc.) in mesh data, such as the mesh returned by spatial mapping.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2436ec1b748d33dab543ea311afcb6f0efb73d32a15ce0dd9e41a576907c9914
+size 180

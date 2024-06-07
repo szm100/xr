@@ -1,5 +1,3 @@
-# World Locking Tools for Unity
-
-[WLT Documentation on GitHub](https://microsoft.github.io/MixedReality-WorldLockingTools-Unity/README.html).
-
-[Additional full project samples are available](https://microsoft.github.io/MixedReality-WorldLockingTools-Samples/README.html).
+version https://git-lfs.github.com/spec/v1
+oid sha256:64d048c6aab90c54b4e39e7f2c293b68fec0301f277e2724a20787ec85eac801
+size 275

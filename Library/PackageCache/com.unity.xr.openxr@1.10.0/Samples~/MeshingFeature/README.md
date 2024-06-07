@@ -1,9 +1,3 @@
-# Meshing Feature Sample
-
-Demonstrates how to author an OpenXR Feature which sets up a custom XR Meshing Subsystem.
-
-The [XR SDK Meshing Subsystem](https://docs.unity3d.com/2021.3/Documentation/Manual/xrsdk-meshing.html) allows for one to surface procedurally-generated meshes within Unity.  Within OpenXR this functionality can be exposed by using creating an `OpenXRFeature` to manage the subsystem.  This sample uses a native plugin to provide a teapot mesh through a [XRMeshingSubsystem](https://docs.unity3d.com/2021.3/Documentation/ScriptReference/XR.XRMeshSubsystem.html) that is managed by an OpenXR feature.
-
-See the [XR SDK Meshing Subsystem](https://docs.unity3d.com/2021.3/Documentation/Manual/xrsdk-meshing.html) for more information about the meshing subsystem.
-
-See the [Unity OpenXR Documentation](https://docs.unity3d.com/Packages/com.unity.xr.openxr@latest) for more information on developing a custom feature.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a659df56f34db1939bee5df51b9a6a3548c1555d01f3c36dcb32fa8437b6f191
+size 929

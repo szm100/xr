@@ -1,8 +1,3 @@
-# XR Hands
-The XR Hands Package provides the subsystem and provider APIs to expose and track hand data.
-
-## Installing the XR Hands Package
-
-To install this package, follow the instructions in the [Package Manager documentation](https://docs.unity3d.com/Packages/com.unity.package-manager-ui@latest/index.html).
-
-This package was developed against Unity 2021.3, and supports any Unity version after that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:417210ecffee45d2fd95f04578d2beb4de47943a468f3770e14d02d9d42100c3
+size 405

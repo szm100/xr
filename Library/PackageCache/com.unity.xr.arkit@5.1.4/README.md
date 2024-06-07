@@ -1,35 +1,3 @@
-# Apple ARKit XR Plug-in Package
-
-The purpose of this package is to provide ARKit XR Support. 
-
-## Package structure
-
-```none
-<root>
-  ├── CHANGELOG.md
-  ├── Documentation
-  │   └── com.unity.arkit.md
-  ├── Editor
-  │   ├── Unity.XR.ARKit.Editor.asmdef
-  │   └── UnityARKitPostBuild.cs
-  ├── LICENSE.md
-  ├── package.json
-  ├── QAReport.md
-  ├── README.md
-  └── Runtime
-      ├── FaceTracking
-      │   ├── ARKitFaceSubsystem.cs
-      │   ├── Unity.XR.ARKit.FaceTracking.asmdef 
-      ├── iOS
-      │   ├── link.xml
-      │   ├── Resources 
-      │   │   └── ARKitShader.shader 
-      │   ├── UnityARKit.a 
-	  │   └── UnityARKit.m 
-      ├── UnitySubsystemsManifest.json
-      └── Unity.XR.ARKit.asmdef
-```
-
-
-\* *Apple and ARKit are trademarks of Apple Inc., registered in the U.S. and other countries and regions.*
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f54670d7ed0b8590dfcf84428daade9aafa09de4db6c09c014e8f172fbf684f
+size 971

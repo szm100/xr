@@ -1,5 +1,3 @@
-# Mixed Reality Toolkit SDK - Features
-
-This folder contains the core mixed Reality Feature concrete implementations.  These are completely optional to use and can be replaced with your own system should you wish to.
-
-> More details needed on creating your own system, or replacing one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:763f33cc2816cd9cad7e08f4e97819b4d99a9d1deb3f6a5f12154c4bcd890323
+size 290

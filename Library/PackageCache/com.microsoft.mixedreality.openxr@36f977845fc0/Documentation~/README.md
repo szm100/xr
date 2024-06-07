@@ -1,13 +1,3 @@
-# Mixed Reality OpenXR Plugin for Unity
-
-This "Mixed Reality OpenXR Plugin" package is an extension to Unity's "OpenXR Plugin"
-to support a suite of features for HoloLens 2 and Windows Mixed Reality headsets
-
-This package requires Unity 2021.3+ and the "OpenXR Plugin" package from Unity.
-
-Please reference [online documents](https://aka.ms/openxr-unity) to learn more details
-about setting up a Unity project and using this plugin to build Unity applications
-for HoloLens 2 and Windows Mixed Reality headsets.
-
-Please reference [OpenXR-Unity-MixedReality-Samples](https://github.com/microsoft/OpenXR-Unity-MixedReality-Samples)
-to find sample projects using this package to build Unity applications on HoloLens 2.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6cc065f7f9cdde496774a5e2ca8ff897f4f1e4ad3ce3330155ef7249c1bf44c
+size 728
